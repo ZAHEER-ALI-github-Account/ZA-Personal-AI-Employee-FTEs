@@ -1,0 +1,26 @@
+# AI Employee FTE - Bronze Tier
+# Python dependencies
+
+# Core dependencies (Bronze Tier)
+# No external dependencies required for Bronze Tier!
+# Uses only Python standard library:
+# - pathlib
+# - logging
+# - abc (abstract base classes)
+# - datetime
+# - hashlib
+# - shutil
+# - re (regular expressions)
+# - time
+# - argparse
+
+# Optional dependencies for future tiers:
+# watchdog>=3.0.0       # Silver: Real-time file system watching
+# google-api-python-client>=2.0.0  # Silver: Gmail API integration
+# google-auth-httplib2>=0.1.0      # Silver: Gmail authentication
+# google-auth-oauthlib>=1.0.0      # Silver: Gmail OAuth
+# playwright>=1.40.0    # Silver: WhatsApp Web automation
+# aiohttp>=3.9.0        # Gold: Async HTTP requests
+
+# Note: Bronze Tier uses only Python standard library for simplicity
+# Run: pip install -r requirements.txt
