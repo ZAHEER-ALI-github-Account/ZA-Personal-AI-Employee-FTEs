@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI Employee - Sensitive Files (DO NOT COMMIT)
+credentials.json
+token.json
+.env
+*.log
+
+# Session data
+whatsapp_session/
+linkedin_session/
+
+# Obsidian
+.obsidian/
+
+# Test artifacts
+AI_Employee_Vault/Needs_Action/*.md
+AI_Employee_Vault/Plans/*.md
+AI_Employee_Vault/Done/*.md
+AI_Employee_Vault/Logs/*.log
+AI_Employee_Vault/Drop_Folder/*
